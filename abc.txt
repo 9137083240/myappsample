@@ -1,6 +1,2 @@
 qwerty
-<<<<<<< HEAD
 asdfgh
-=======
-ytrewq
->>>>>>> 962901b3a05ee70ae852aa52d3c49702281926a1
