@@ -1,7 +1,1 @@
-qwerty
-asdfgh
-<<<<<<< Updated upstream
-zxcvbn
-=======
-qwertyuiop
->>>>>>> Stashed changes
+leaves are green
